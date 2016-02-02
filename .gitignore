@@ -13,5 +13,5 @@
 ### Above combination will ignore all files without extension ###
 
 *.o
-*.nblc
-*.blc
+*.nbcl
+*.bcl
