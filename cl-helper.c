@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2010 Andreas Kloeckner
+ * Copyright (c) 2010 Andreas Kloeckner, 2016 Andrej Hoos
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
